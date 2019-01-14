@@ -1,11 +1,11 @@
 # Site settings
 author: NaKia Whitby
-title: 
+title: DecodeHer
 header-img: img/home-bg.png
 email: whitby.nakia@gmail.com
 copyright_name: NaKia Whitby
 description: > # this means to ignore newlines until "baseurl:"
-  
+  The Reversed Engineered "Me" (Version 2.0)
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  NWhitby
