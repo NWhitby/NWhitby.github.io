@@ -21,7 +21,7 @@ As programmers, implementing active recall can not only make us more efficient p
 
 Want to give active recall a try? Great! It's actually pretty simple. The next time you study, attempt to look away from your notes. If you can recall the information, try explaining it to someone else to build self-confidence and ensure that you further solidify it within your brain. If you can't recall it, try reviewing it again. It's possible that more understanding is required. Take notes that highlight your trouble topics, review those troublesome areas, develop other points of reference as you study, and later, try recalling it again without your notes and references present. 
 
-The [How to Study Blog] (https://www.howtostudy.org/blog/?p=461) reminds us that, "Active learning is just as it sounds. In order to truly learn a new piece of information, you need to somehow trick your brain into working on it, activating new neural pathways and building new connections." 
+The [How to Study Blog](https://www.howtostudy.org/blog/?p=461) reminds us that, "Active learning is just as it sounds. In order to truly learn a new piece of information, you need to somehow trick your brain into working on it, activating new neural pathways and building new connections." 
 
 Remember, when it comes to learning there are no shortcuts, only commitment, hard work and countless hours of practice. Building a better understanding often comes through time, repetition, and consistency. So, the next time you attempt to learn a new thing, give active recall a try. And by doing so, give your brain the ultimate reward... retainment! 
 
