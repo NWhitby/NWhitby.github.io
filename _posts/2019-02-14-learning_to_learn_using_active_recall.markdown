@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Learning to Learn Using Active Recall"
-date:       2019-02-14 15:42:42 +0000
+date:       2019-02-14 10:42:43 -0500
 permalink:  learning_to_learn_using_active_recall
 ---
 
@@ -15,7 +15,7 @@ It's easily tempting to experience false confidence after having passively revie
 
 However, the problem with this process is that it's possible that we may not have actually retained the information. Sure, we may be able to remember in the present, while the book is open, while things are still fresh. But what about when the book is closed? What about an hour later? How about a day? Maybe even a month? Fortunately, there is a learning method called active recall, which helps the brain hold on to what we feed it. 
 
-According to [Sam Di Sano at atomi] (https://getatomi.com/staffroom/what-is-active-recall-and-how-effective-is-it/): "Active recall is the process of remembering information. It is an efficient way of moving information from short-term to long-term memory so that you can easily draw on it again when you need it most, such as for an assessment or exam." 
+According to [Sam Di Sano at atomi](https://getatomi.com/staffroom/what-is-active-recall-and-how-effective-is-it/): "Active recall is the process of remembering information. It is an efficient way of moving information from short-term to long-term memory so that you can easily draw on it again when you need it most, such as for an assessment or exam." 
 
 As programmers, implementing active recall can not only make us more efficient problem solvers but allow us to experience a greater ROI (return on investment) as we invest thousands of lifetime hours honing away at our craft. 
 
