@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "CLI Data Gem Portfolio Project"
-date:       2019-03-04 16:54:04 +0000
+date:       2019-03-04 11:54:05 -0500
 permalink:  cli_data_gem_portfolio_project
 ---
 
@@ -12,7 +12,7 @@ I have always been fascinated by etymology. Words allow us to communicate and ex
 
 Before reaching the CLI Data Gem Portfolio project, I already knew that, in some way, my project would be centered around learning and vocabulary. Throughout my life, I've been going to various dictionary websites to look up the word of the day. It's been a fun way to learn something beneficial that would quickly translate to my everyday life. I decided that a word of the day CLI would be both fun and interesting as my personal project. 
 
-**The Process **
+**The Process**
 
 To begin, I grabbed a paper and pen and casually sketched and pseudocoded the interface and logic of my project. In taking the advice of my educational coach and various sections within Learn.co, I decided to keep the project very simple. Sure, my head was buzzing with ideas. But I knew that meeting the minimum project requirements would be most important as I could expand my project with refactoring and new features at a later date. At this time, priority number 1 was a working project.
 
