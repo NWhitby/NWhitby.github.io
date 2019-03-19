@@ -12,7 +12,7 @@ Originally, my CLI project was centered around etymology and was an application 
 
 RandomFacts, my current CLI Data Gem Portfolio project scrapes "The Fact Site" and returns a list of random fun facts for the user's consumption. It's an amusing way to learn obscure, random and interesting information right from the command line.
 
-**The Process **
+**The Process**
 
 To begin, I grabbed a paper and pen and casually sketched and pseudocoded the interface and logic of my project. In taking the advice of my educational coach and various sections within Learn, I decided to keep the project very simple while ensuring that I covered all major requirements. 
 
