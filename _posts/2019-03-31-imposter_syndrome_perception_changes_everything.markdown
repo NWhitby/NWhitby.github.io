@@ -31,8 +31,8 @@ Imposter syndrome tells you that you're a fraud because you haven't learned the 
 
 Embracing lifelong-learning as a gift rather than a curse can result in a myriad of personal and professional benefits, including (but not limited to) career and self-development. Our paths to web dev may be very different but they all have a common theme of starting from scratch and learning as we go. 
 
-**Final Thoughts **
+**Final Thoughts**
 
 Overall, feeling "good enough" in this filed will often be a fierce battle and an uphill climb. However, with much openness, a realistic perspective, and a positive frame of mind, one can reach a good level of contentment and satisfaction by trading in those somber/gloomy thoughts and feelings.
 
-I can continue to declare that I have imposter syndrome while swimming in the apathy that this declaration brings, or I can instead declare that I'm no imposter but a "Lifelong Learner." I like to think that I've found an intriguing "forever bug" in my life script. The first and only bug that I've grown to be cool with keeping around.
+I can continue to declare that I have imposter syndrome while swimming in the apathy that this declaration brings, or I can instead declare that I'm no imposter but a "Lifelong Learner!" I like to think that I've found an intriguing "forever bug" in my life script. The first and only bug that I've grown to be cool with keeping around.
