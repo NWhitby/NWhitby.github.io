@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Imposter Syndrome: Perception Changes Everything"
-date:       2019-03-31 16:15:18 +0000
+date:       2019-03-31 12:15:19 -0400
 permalink:  imposter_syndrome_perception_changes_everything
 ---
 
@@ -19,7 +19,7 @@ How we think and feel about ourselves matters a great deal. So much so, that our
 
 **Outlook 1**
 
-For starters, I saw fit to change the narrative surrounding this phenomenon. Instead of wallowing and negatively identifying with a "syndrome", I've decided to embrace it. What if feeling out of place is the very thing that keeps me kind and relatable as I move forward with my studies?
+For starters, I saw fit to change the narrative surrounding this phenomenon. Instead of wallowing and negatively identifying with a syndrome, I've decided to embrace it and find the good. What if feeling out of place is the very thing that keeps me kind and relatable as I move forward with my studies?
 
 The world of programming has many wonderfully helpful communities but it also has its fair share of toxicity and arrogance. By always having the feeling that I've never truly "arrived", perhaps I can avoid poisoning myself and the community with another "I know it all", "I'm an expert and you're not", developer. The takeaway: Imposter syndrome can keep me humble.
 
