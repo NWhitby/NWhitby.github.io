@@ -19,7 +19,7 @@ Like all programming languages, object-oriented Ruby has a set of standards/best
 
 After about 5 hours and much debugging using the console and Pry (which are probably my new best friends), I had a program that was explicit in showing object-oriented principles. I was satisfied, which due to an unrealistic desire to reach perfection, is something that doesn't come easily to me.  Not only did my code do a much better job at separating concerns, make better use of methods, become more dry/readable, it also loaded and displayed the data a lot faster.
 
-While I didn't anticipate using two domains in different projects, I can honestly say that returning to complete my project 1 solidified the "why" in refactoring already functioning code and gives me a little boost of confidence as I move on to other Learn sections. 
+While I didn't anticipate using two domains in different projects, I can honestly say that returning to complete project 1 solidified the "why" in refactoring already functioning code and gives me a little boost of confidence as I move on to other Learn sections. 
 
 
 
