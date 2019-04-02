@@ -1,11 +1,11 @@
 ---
 layout: post
 title:      "Refactoring 101 "
-date:       2019-04-02 13:27:19 +0000
+date:       2019-04-02 09:27:20 -0400
 permalink:  refactoring_101
 ---
 
-**The beginning**
+**The Beginning**
 
 Over the last few weeks, I've gotten a super hands-on introduction to refactoring. I completed and passed my CLI Data Gem Portfolio Project, RandomFacts, which returns over 100 random facts to the user. During the technical assessment, I got an in-depth overview at OO Ruby as I refactored my code to make it more dynamic and efficient. I originally had a different idea in mind, a CLI that scrapes live data from Merriam Webster's word of the day website. Now, that my RandomFacts project was complete, I thought it would be helpful to return to my 1st project for more refactoring practice.
 
