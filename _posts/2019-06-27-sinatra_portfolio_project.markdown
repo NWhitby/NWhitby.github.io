@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Sinatra Portfolio Project"
-date:       2019-06-27 16:53:23 +0000
+date:       2019-06-27 12:53:24 -0400
 permalink:  sinatra_portfolio_project
 ---
 
@@ -32,4 +32,4 @@ I believe I spent the most time debugging the routes in my controllers and makin
 
 Overall, I'm happy with my project, as I believe it covers the requirements and is something I can use on a daily basis to keep track of my own writings.  In the near future, I'd like to play around with the design and add more features. 
 
-Since creating my Sinatra app, I have a much better understanding of how frameworks are used on the back end of the web and a better grasp of CRUD, MVC, HTTP, and restful routing.
+Since creating my Sinatra app, I have a much better understanding of how frameworks are used on the back end of the web and a better grasp of CRUD, MVC, HTTP, and RESTful routing.
